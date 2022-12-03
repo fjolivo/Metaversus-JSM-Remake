@@ -483,6 +483,9 @@ video {
   bottom: 0px;
   left: 0px;
 }
+.z-10 {
+  z-index: 10;
+}
 .mx-\[6px\] {
   margin-left: 6px;
   margin-right: 6px;
@@ -514,6 +517,9 @@ video {
 }
 .w-\[24px\] {
   width: 24px;
+}
+.flex-col {
+  flex-direction: column;
 }
 .items-start {
   align-items: flex-start;
