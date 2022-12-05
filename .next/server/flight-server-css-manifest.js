@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/folivo/Documents/GitHub/Metaversus-JSM-Remake/app/page":["/Users/folivo/Documents/GitHub/Metaversus-JSM-Remake/styles/globals.css"]},"/Users/folivo/Documents/GitHub/Metaversus-JSM-Remake/app/layout.js":["/Users/folivo/Documents/GitHub/Metaversus-JSM-Remake/styles/globals.css"]}
+self.__RSC_CSS_MANIFEST={}
