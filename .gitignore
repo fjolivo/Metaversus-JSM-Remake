@@ -17,3 +17,4 @@ dir_to_ignore/
 .next/cache/webpack/server-development/index.pack
 .next/cache/webpack/server-development/index.pack.old
 .next/trace
+.next
